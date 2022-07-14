@@ -1,2 +1,1 @@
-**Answer** \
-Join us at LINEMAN Wongnai
+`String answer = "Join:us:at:LINE:MAN:Wongnai"`
